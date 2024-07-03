@@ -27,7 +27,7 @@
         "ghost_element.active": "#9aa5ce",
         "ghost_element.selected": "#565f89",
         "ghost_element.disabled": "#414868",
-        "text": "#787c99",
+        "text": "#a9b1d6",
         "text.muted": "#787c99",
         "text.placeholder": "#787c99",
         "text.disabled": "#414868",
@@ -47,10 +47,10 @@
         "panel.background": "#16161e",
         "panel.focused_border": null,
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#414868",
+        "scrollbar_thumb.background": "#41486880",
         "scrollbar.thumb.hover_background": "#414868",
         "scrollbar.thumb.border": "#414868",
-        "scrollbar.track.background": "#1a1b26",
+        "scrollbar.track.background": "#1a1b2680",
         "scrollbar.track.border": "#101014",
         "editor.foreground": "#a9b1d6",
         "editor.background": "#1a1b26",
@@ -175,12 +175,12 @@
             "font_weight": null
           },
           "emphasis": {
-            "color": "#c0caf5",
+            "color": "#f7768e",
             "font_style": "italic",
             "font_weight": null
           },
           "emphasis.strong": {
-            "color": "#c0caf5",
+            "color": "#f7768e",
             "font_style": null,
             "font_weight": 700
           },
@@ -285,7 +285,7 @@
             "font_weight": null
           },
           "title": {
-            "color": "#c0caf5",
+            "color": "#ff9e64",
             "font_style": null,
             "font_weight": null
           },
@@ -331,7 +331,7 @@
         "ghost_element.active": "#565a6e",
         "ghost_element.selected": "#9699a3",
         "ghost_element.disabled": "#0f0f14",
-        "text": "#4c505e",
+        "text": "#343b58",
         "text.muted": "#4c505e",
         "text.placeholder": "#4c505e",
         "text.disabled": "#0f0f14",
@@ -351,10 +351,10 @@
         "panel.background": "#cbccd1",
         "panel.focused_border": null,
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#9699a3",
+        "scrollbar_thumb.background": "#9699a380",
         "scrollbar.thumb.hover_background": "#9699a3",
         "scrollbar.thumb.border": "#9699a3",
-        "scrollbar.track.background": "#d5d6db",
+        "scrollbar.track.background": "#d5d6db80",
         "scrollbar.track.border": "#c1c2c7",
         "editor.foreground": "#343b59",
         "editor.background": "#d5d6db",
@@ -479,12 +479,12 @@
             "font_weight": null
           },
           "emphasis": {
-            "color": "#343b58",
+            "color": "#8c4351",
             "font_style": "italic",
             "font_weight": null
           },
           "emphasis.strong": {
-            "color": "#343b58",
+            "color": "#8c4351",
             "font_style": null,
             "font_weight": 700
           },
@@ -589,7 +589,7 @@
             "font_weight": null
           },
           "title": {
-            "color": "#343b58",
+            "color": "#965027",
             "font_style": null,
             "font_weight": null
           },
@@ -635,7 +635,7 @@
         "ghost_element.active": "#9aa5ce",
         "ghost_element.selected": "#565f89",
         "ghost_element.disabled": "#414868",
-        "text": "#787c99",
+        "text": "#a9b1d6",
         "text.muted": "#7982a9",
         "text.placeholder": "#787c99",
         "text.disabled": "#414868",
@@ -655,10 +655,10 @@
         "panel.background": "#1f2335",
         "panel.focused_border": null,
         "pane.focused_border": null,
-        "scrollbar_thumb.background": "#414868",
+        "scrollbar_thumb.background": "#41486880",
         "scrollbar.thumb.hover_background": "#414868",
         "scrollbar.thumb.border": "#414868",
-        "scrollbar.track.background": "#24283b",
+        "scrollbar.track.background": "#24283b80",
         "scrollbar.track.border": "#1b1e2e",
         "editor.foreground": "#a9b1d6",
         "editor.background": "#24283b",
@@ -783,12 +783,12 @@
             "font_weight": null
           },
           "emphasis": {
-            "color": "#c0caf5",
+            "color": "#f7768e",
             "font_style": "italic",
             "font_weight": null
           },
           "emphasis.strong": {
-            "color": "#c0caf5",
+            "color": "#f7768e",
             "font_style": null,
             "font_weight": 700
           },
@@ -893,7 +893,7 @@
             "font_weight": null
           },
           "title": {
-            "color": "#c0caf5",
+            "color": "#ff9e64",
             "font_style": null,
             "font_weight": null
           },

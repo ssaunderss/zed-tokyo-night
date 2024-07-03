@@ -1,6 +1,6 @@
-id = "zed-tokyo-night"
+id = "tokyo-night"
 name = "Tokyo Night Themes"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["ssaunderss <austinsaunders@me.com>"]
 description = "Tokyo Night Themes"
